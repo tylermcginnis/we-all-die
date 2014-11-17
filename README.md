@@ -1,4 +1,2 @@
-UtahJS-Conference-Talk
+We're all Dying: What I wish I knew in High School
 ======================
-
-Do you really know JavaScript?
